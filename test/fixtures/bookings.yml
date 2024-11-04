@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  hotel: one
+  room: one
+  customer_name: MyString
+  check_in_date: 2024-11-05 04:37:12
+  check_out_date: 2024-11-05 04:37:12
+  number_of_guests: 1
+  total_price: 9.99
+
+two:
+  customer: two
+  hotel: two
+  room: two
+  customer_name: MyString
+  check_in_date: 2024-11-05 04:37:12
+  check_out_date: 2024-11-05 04:37:12
+  number_of_guests: 1
+  total_price: 9.99

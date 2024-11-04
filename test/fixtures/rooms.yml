@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hotel: one
+  room_type: MyString
+  max_persons: 1
+  description: MyText
+  price: 9.99
+  amenities: 
+  quantity: 1
+
+two:
+  hotel: two
+  room_type: MyString
+  max_persons: 1
+  description: MyText
+  price: 9.99
+  amenities: 
+  quantity: 1
